@@ -12,7 +12,6 @@ form: true
 - DIWALI. THE EXORBITANT.  [INTERLITQ 14](http://interlitq.org/issue14/harvey-molloy/job.php)  
 - CLOSER.  [BLACKMAIL PRESS 25​](http://www.blackmailpress.com/HM25.html)  
 - ALBEDO.  [​ STOAT SPRING](http://stoatspring.blogspot.co.nz/2010/12/tuesday-poem-albedo-by-harvey-molloy.html) (HARVEY MCQUEEN)  
-- CORPORATE IDENTITY.  [HELEN HEATH](https://www.helenheath.com/1-jul-2010/tuesday-poem-corporate-identity-harvey-molloy)  
 - NANOSPHERE. [HELEN LOWE](http://helenlowe.info/blog/2010/10/19/tuesday-poem-nanosphere-by-harvey-molloy/)  
 - DELPH WHIT FRIDAY.  [NZ POETRY SHELF](https://nzpoetryshelf.com/2016/04/22/three-poems-from-hoopla-16-helen-jacobs-harvey-molloy-ish-doney/)  
 - A WALK ON THE MOOR. [STILLCRAIC](http://stillcraic.blogspot.co.nz/2015/12/tuesday-poem-walk-on-moor-by-harvey.html) (JENNIFER COMPTON)  
