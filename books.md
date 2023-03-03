@@ -4,18 +4,13 @@ title: Books
 description:
 background: '/img/bg-books.jpg'
 ---
-![](img/nightmusic.jpg)  
-Nightmusic - 2018. Contact [Black Giraffe Press](mailto:blackgiraffepress@gmail.com) for purchase ($25)  
+![Nightmusic - 2018](img/nightmusic.jpg)  
   
-
-[Udon by the Remarkables - 2016](http://makaropress.co.nz/the-hoopla-series/)  
-  
-![](img/udon-by-the-remarkables-front-cover.jpeg)
-
+[![Udon by the Remarkables - 2016](img/udon-by-the-remarkables-front-cover.jpeg)](http://makaropress.co.nz/the-hoopla-series/)
 Moonshot - 2008  
   
 ![](img/moonshot-front-cover.jpeg)
 
-[Asperger Syndrome - Adolescence and Identity](http://www.jkp.com/uk/asperger-syndrome-adolescence-and-identity.html)  
+
   
-![](img/asperger-front-cover.jpeg)
+[![Asperger Syndrome - Adolescence and Identity](img/asperger-front-cover.jpeg)](http://www.jkp.com/uk/asperger-syndrome-adolescence-and-identity.html)
