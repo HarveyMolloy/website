@@ -10,4 +10,4 @@ background: '/img/bg-books.jpg'
   
 [![Moonshot](img/moonshot-front-cover.jpeg)](https://books.google.co.nz/books/about/Moonshot.html?id=mfaPNwAACAAJ&redir_esc=y)
 
-[![Asperger Syndrome - Adolescence and Identity](img/asperger-front-cover.jpeg)](http://www.jkp.com/uk/asperger-syndrome-adolescence-and-identity.html)
+[![Asperger Syndrome - Adolescence and Identity](img/asperger-front-cover.jpeg)](https://www.amazon.com/Asperger-Syndrome-Adolescence-Identity-Looking-ebook/dp/B0036TGJI4/ref=sr_1_1?crid=NXJPLQ67NSM5)
