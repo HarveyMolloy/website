@@ -4,6 +4,7 @@ title: Poems
 description:
 background: '/img/bg-post.jpg'
 form: true
+---
 - STATION. EPONA. PAST PRESENT. [TAROT 10: AN AOTEAROA POETRY JOURNAL](http://www.tarotpoetry.nz/wp-content/uploads/2023/05/Tarot-10.pdf)
 - NIGHT CREW. PAST PERFECT. [TAROT 6: AN AOTEAROA POETRY JOURNAL](http://www.tarotpoetry.nz/wp-content/uploads/2023/05/Tarot-06.pdf)
 - THE LAST SURREALIST.  [BEST NEW ZEALAND POEMS](https://www.bestnewzealandpoems.org.nz/past-issues/2011-contents/harvey-molloy/)
